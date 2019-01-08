@@ -24,3 +24,12 @@ function togglePlay() {
   video[method]();
 }
 ```
+
+Ova e da go pretvori vo cel broj. Zosto ke dobijash String.
+
+```javascript
+parseFloat(this.dataset.skip);
+```
+
+#CHALLENGE
+Add a button for full screen. And when it gets clicked make it full screen.
