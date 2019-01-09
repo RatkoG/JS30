@@ -81,3 +81,5 @@ const wes = {
   }
 }
 const dev = Object.assign({}, wes)
+
+// Ako sakas da smenish social nema da mozi. ZOsto odi one level deep.
